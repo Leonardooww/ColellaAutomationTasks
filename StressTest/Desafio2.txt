@@ -1,0 +1,25 @@
+
+
+A taxa de erros foi 0
+
+
+
+Métricas Obtidas
+
+Tempo Médio de Resposta:
+Valor: 13 ms
+
+Observação: O tempo médio de resposta está significativamente abaixo do limite de 2 segundos, atendendo ao critério de sucesso.
+
+
+Throughput:
+
+Valor: 39.323/minute
+
+Observação: O throughput indica que o sistema consegue lidar bem com a carga de 100 usuários simultâneos.
+
+
+Taxa de Erro:
+Valor: 0%
+
+Observação: Não foram registrados erros durante o teste, atendendo ao critério de sucesso de taxa de erro inferior a 1%.
